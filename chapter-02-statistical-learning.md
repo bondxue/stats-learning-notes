@@ -10,7 +10,7 @@ features, or more generally, variables.
 
 [Outputs][glossary-output], also known as response or dependent variable.
 
-Suppose an observed quantitative response $ {Y} $ and $ {p} $ different
+Suppose an observed quantitative response ${Y}$ and $ {p} $ different
 predictors $ x_{1}, x_{2}, \ldots, x_{p} . $ The assumed relationship between $
 {Y} $ and $ X = (x_{1}, x_{2}, \ldots, x_{p}) $ can be generalized as:
 
