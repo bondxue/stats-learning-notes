@@ -10,23 +10,23 @@ features, or more generally, variables.
 
 [Outputs][glossary-output], also known as response or dependent variable.
 
-Suppose an observed quantitative response $$ {Y} $$ and $$ {p} $$ different
-predictors $$ x_{1}, x_{2}, \ldots, x_{p} . $$ The assumed relationship between $$
-{Y} $$ and $$ X = (x_{1}, x_{2}, \ldots, x_{p}) $$ can be generalized as:
+Suppose an observed quantitative response $ {Y} $ and $ {p} $ different
+predictors $ x_{1}, x_{2}, \ldots, x_{p} . $ The assumed relationship between $
+{Y} $ and $ X = (x_{1}, x_{2}, \ldots, x_{p}) $ can be generalized as:
 
 $$ \normalsize {Y} = f(X) + \epsilon $$
 
-where $$ f $$ is some fixed, but unknown function of $$ X $$ and $$ \epsilon
-$$ is a random [error term][glossary-irreducible-error] that is independent of
-$$ {X} $$ and has a mean of zero. In such a scenario, $$ f $$ represents the
-systematic information that $$ X $$ provides about $$ Y . $$
+where $ f $ is some fixed, but unknown function of $ X $ and $ \epsilon
+$ is a random [error term][glossary-irreducible-error] that is independent of
+$ {X} $ and has a mean of zero. In such a scenario, $ f $ represents the
+systematic information that $ X $ provides about $ Y . $
 
-In general, an estimation of $$ f $$, denoted by $$ \hat{f} $$, will not be
+In general, an estimation of $ f $, denoted by $ \hat{f} $, will not be
 perfect and will introduce error.
 
-The error introduced by the discrepancy between $$ f $$ and $$ \hat{f} $$ is
+The error introduced by the discrepancy between $ f $ and $ \hat{f} $ is
 known as [irreducible error][glossary-irreducible-error] because it can never be
-reduced regardless of the accuracy $$ \hat{f} . $$
+reduced regardless of the accuracy $ \hat{f} . $
 
 The irreducible error will be larger than zero because $$ \epsilon $$ may
 contain unmeasured variables needed to predict $$ {Y} $$ or $$ \epsilon $$ may
